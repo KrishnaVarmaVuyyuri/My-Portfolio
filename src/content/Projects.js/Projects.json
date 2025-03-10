@@ -1,0 +1,17 @@
+{
+  "heading": "I have worked on a wide range of projects.Here are some of my projects",
+  "projects": [
+    {
+      "id": 1,
+      "title": "Todo Web Application",
+      "description": "Developed a front-end web application. Implemented  responsive user interface with React JS that provides users with a seamless experience across all devices.",
+      "link": "https://genuine-panda-eff694.netlify.app"
+    },
+    {
+      "id": 2,
+      "title": "Image Search App",
+      "description": "Developed a front-end web application. Implemented  responsive user interface with React JS that provides users with a seamless experience across all devices. Designed Image Search App using JavaScript (React Library), which uses the public API to fetch images ",
+      "link": "https://imagee-search-application.netlify.app"
+    }
+  ]
+}

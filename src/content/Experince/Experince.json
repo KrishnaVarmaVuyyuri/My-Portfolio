@@ -1,0 +1,18 @@
+{
+  "id": 0,
+
+  "role": "Full-stack Devement Intern",
+  "company": "Virtusa",
+  "date": "Feb 2023 - Apr 2023",
+  "desc": "Developed and deployed web applications using React library. Implemented RESTful APIs to support data interactions between front-end and back-end systems and Worked on integrating SQL Server databases for secure data storage and retrieval and Gained experience in version control using Git, including branching and pull requests for collaborative development.",
+  "title": "Skills",
+
+  "Skills": [
+    "  JavaScript",
+    "  C#",
+    "  ReactJS",
+    "  Redux",
+    "  HTML",
+    "  Sql server"
+  ]
+}

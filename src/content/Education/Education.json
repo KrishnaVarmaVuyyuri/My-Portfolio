@@ -1,0 +1,30 @@
+{
+  "list": [
+    {
+      "id": "1",
+      "school": "Bonam Venkata Chalamayya Institute of Techology and Science,Amalapuram",
+      "date": "August 2019 - April 2023",
+      "grade": "7.3 CGPA",
+      "desc": "I am Completed  a Bachelor's degree in Computer Science and Engineering at BVCITS, Amalapuram. I have completed 8 semesters and have a CGPA of 7.3 . I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others.",
+      "degree": "Bachelor of Technology - B.Tech, Computer Science and Engineering"
+    },
+
+    {
+      "id": "2",
+      "school": "Sri Sai Jr College, Yanam",
+      "date": "July 2017 - Apr 2019",
+      "grade": "9.0 CGPA",
+      "desc": "I completed my class 12 high school education at Sri Sai Jr College, Yanam, where I studied Science with Mathamatics.",
+      "degree": "Science with Mathamatics"
+    },
+
+    {
+      "id": 3,
+      "school": "Yanam Public School, Yanam",
+      "date": "Jun 2016 - Apr 2017",
+      "grade": "8.8 CGPA",
+      "desc": "I completed my class 10 education at Yanam Public School, Yanam, where I studied Science with basic Computer Application.",
+      "degree": "Science with Computer"
+    }
+  ]
+}
